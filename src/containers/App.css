@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Fixedsys Excelsior 3.01';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fixedsys Excelsior 3.01'), url('FSEX300.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Fixedsys Excelsior 3.01';
+        font-weight: 200;
+        color: #9eebcf;
+
+    }
+
+    body {
+        overflow: hidden;
+    }
